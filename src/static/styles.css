@@ -169,3 +169,20 @@ footer {
   font-style: italic;
   margin-left: 4px;
 }
+
+.unregister-btn {
+  margin-left: 10px;
+  background-color: #c62828;
+  color: #fff;
+  border: none;
+  padding: 3px 10px;
+  font-size: 13px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+  vertical-align: middle;
+}
+
+.unregister-btn:hover {
+  background-color: #b71c1c;
+}
